@@ -24,3 +24,5 @@ VERDICT: REJECT
 
 ## Efficiency
 The factory is scored on cost per approved ticket, and every turn costs. Read AGENTS.md, factory.conf, the files your task names and the files you change, each once. Do not list or explore the rest of the repo. Stop as soon as your file is written.
+
+Judge only this diff. A finding about code or factory files that this diff does not touch is never a reason to reject. If you cannot run a command, read the changed files instead and decide.
