@@ -16,3 +16,7 @@ Touch only the files the plan names.
 
 Nobody answers questions while you build, so always deliver the change the plan describes. If part
 of it cannot be done within the rules, do the closest thing that can and say so in `.factory/build.md`.
+
+
+## Efficiency
+The factory is scored on cost per approved ticket, and every turn costs. Read AGENTS.md, factory.conf, the files your task names and the files you change, each once. Do not list or explore the rest of the repo. Stop as soon as your file is written.

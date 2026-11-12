@@ -27,3 +27,7 @@ can be delivered.
 If you are given feedback on an earlier plan, read that plan first. Address every point of the
 feedback and keep what it did not object to. If a point conflicts with AGENTS.md or the issue,
 follow AGENTS.md and say so in the plan.
+
+
+## Efficiency
+The factory is scored on cost per approved ticket, and every turn costs. Read AGENTS.md, factory.conf, the files your task names and the files you change, each once. Do not list or explore the rest of the repo. Stop as soon as your file is written.
